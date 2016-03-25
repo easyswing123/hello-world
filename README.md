@@ -1,2 +1,2 @@
 # hello-world
-Repository for beginner tutorial
+I'm a 15 handicapper!
